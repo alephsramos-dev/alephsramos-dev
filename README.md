@@ -19,14 +19,6 @@
 
 ---
 
-## Conecte-se Comigo
-
-- [LinkedIn](https://www.linkedin.com/in/alephsramos)
-- [Instagram](https://www.instagram.com/alephsramos)
-- [Portfólio](https://www.alephsramos.com)
-
----
-
 ## GitHub Stats
 
 ![Aleph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alephsramos-dev&show_icons=true&theme=radical)
