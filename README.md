@@ -1,12 +1,12 @@
-# ⁕ Aleph Silva Ramos - Dev Front-end
+# ✴ Aleph Silva Ramos
 
-## Formação
+## ✶ Formação
 **Técnico em Informática** - [IFRJ (Campus Eng. Paulo de Frontin)](https://www.ifrj.edu.br/)  
 **Graduação em Sistemas de Computação** - [Universidade Federal Fluminense (UFF)](https://www.uff.br/)
 
 ---
 
-## Tecnologias & Habilidades
+## ✶ Tecnologias & Habilidades
 
 **Linguagens e Ferramentas:**
 <div>
@@ -19,6 +19,6 @@
 
 ---
 
-## GitHub Stats
+## ✶ GitHub Stats
 
 ![Aleph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alephsramos-dev&show_icons=true&theme=radical)
