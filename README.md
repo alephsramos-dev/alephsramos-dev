@@ -53,4 +53,3 @@ Exemplo:
 ## 📅 Planos Futuros
 
 Estou constantemente me atualizando com cursos e projetos práticos para me tornar um desenvolvedor ainda mais completo, com ênfase em **Fullstack** e **Mobile**. Meu objetivo é contribuir para projetos de impacto e me tornar referência na área!
-
