@@ -1,4 +1,4 @@
-# 👨‍💻 Aleph Ramos
+# 👨‍💻 Aleph Silva Ramos - Dev Front-end
 
 ## 🎓 Formação
 
@@ -21,7 +21,7 @@
 
 ## 📈 Stats do GitHub
 
-![Aleph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alephramos&show_icons=true&theme=radical)
+![Aleph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alephsramos-dev&show_icons=true&theme=radical)
 
 ---
 
