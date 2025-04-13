@@ -1,4 +1,4 @@
-# Aleph Silva Ramos - Dev Front-end
+# ⁕ Aleph Silva Ramos - Dev Front-end
 
 ## Formação
 **Técnico em Informática** - [IFRJ (Campus Eng. Paulo de Frontin)](https://www.ifrj.edu.br/)  
