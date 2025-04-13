@@ -1,8 +1,8 @@
 # Aleph Silva Ramos - Dev Front-end
 
 ## Formação
-- **Técnico em Informática** - [IFRJ (Campus Eng. Paulo de Frontin)](https://www.ifrj.edu.br/)  
-- **Graduação em Sistemas de Computação** - [Universidade Federal Fluminense (UFF)](https://www.uff.br/)
+**Técnico em Informática** - [IFRJ (Campus Eng. Paulo de Frontin)](https://www.ifrj.edu.br/)  
+**Graduação em Sistemas de Computação** - [Universidade Federal Fluminense (UFF)](https://www.uff.br/)
 
 ---
 
