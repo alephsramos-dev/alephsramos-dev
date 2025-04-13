@@ -1,12 +1,12 @@
-# 👨‍💻 Aleph Silva Ramos - Dev Front-end
+# Aleph Silva Ramos - Dev Front-end
 
-## 🎓 Formação
+## Formação
 - **Técnico em Informática** - [IFRJ (Campus Eng. Paulo de Frontin)](https://www.ifrj.edu.br/)  
 - **Graduação em Sistemas de Computação** - [Universidade Federal Fluminense (UFF)](https://www.uff.br/)
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
+## Tecnologias & Habilidades
 
 **Linguagens e Ferramentas:**
 <div>
@@ -19,20 +19,14 @@
 
 ---
 
-## 🌍 Conecte-se Comigo
+## Conecte-se Comigo
 
-- [LinkedIn](https://www.linkedin.com/in/alephramos)
-- [Instagram](https://www.instagram.com/alephramos)
-- [Portfólio](https://www.alephramos.com) *(se você tiver um link ou quiser criar um, seria bom incluir!)*
+- [LinkedIn](https://www.linkedin.com/in/alephsramos)
+- [Instagram](https://www.instagram.com/alephsramos)
+- [Portfólio](https://www.alephsramos.com)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Aleph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alephsramos-dev&show_icons=true&theme=radical)
-
----
-
-## 🔧 Sobre Mim
-
-Desenvolvedor Front-end apaixonado por **tecnologia** e sempre em busca de aprimorar minhas habilidades. Atualmente, estou me especializando em **React**, **Styled Components**, e expandindo meus conhecimentos em **Fullstack** e **Mobile Development**. Em constante aprendizado, busco sempre contribuir para soluções inovadoras e impactantes no desenvolvimento de software.
